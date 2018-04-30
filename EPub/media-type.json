@@ -1,0 +1,24 @@
+{
+    "jpg"   : "image/jpeg",
+    "png"   : "image/png",
+    "gif"   : "image/gif",
+    "svg"   : "image/svg+xml",
+
+    "xhtml" : "application/xhtml+xml",
+    "js"    : "application/javascript",
+    "ncx"   : "application/x-dtbncx+xml",
+    "otf"   : "application/font-sfnt",
+    "ttc"   : "application/font-sfnt",
+    "ttf"   : "application/font-sfnt",
+    "woff"  : "application/font-woff",
+    "smil"  : "application/smil+xml",
+    "tts"   : "application/pls+xml",
+
+    "mp3"   : "audio/mpeg",
+    "mp4"   : "video/mp4",
+
+    "css"   : "text/css",
+    "woff2" : "font/woff2",
+
+    "xml"   : "application/xml"
+}
